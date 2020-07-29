@@ -4,7 +4,6 @@ Hi, I'm Aayush Jain, a Python Developer 🚀 from India, currently, I'm working 
 
 - 🔭 I’m currently working on Momentum based Algo Trading Platform 
 - 🌱 I’m currently learning GO, GCP
-- 🤔 I’m looking for help with Microservices 😭
 - 💬 Ask me about Python
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-jain18/
 
