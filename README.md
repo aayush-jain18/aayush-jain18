@@ -2,7 +2,6 @@
 
 Hi, I'm Aayush Jain, a Python Developer 🚀 from India, currently, I'm working for Infosys(Pune) and open for opportunities. Beside's programming, I enjoy traveling and playing basketball.
 
-- 🔭 I’m currently working on Momentum based Algo Trading Platform 
 - 🌱 I’m currently learning CPP
 - 💬 Ask me about Python
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-jain18/
